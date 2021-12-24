@@ -19,7 +19,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
     <h5 align="left">Accuracy Score: 64.6%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_accuracy.PNG">
   </div>
-</div><br>
+</div>
 
 <div class="container" align="left">
   <div style="background-image">
