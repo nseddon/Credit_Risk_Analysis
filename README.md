@@ -16,48 +16,93 @@ The purpose of this analysis was to determine credit risk for our lending servic
 -  Naive Random Oversampling
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Vine Reviews</h5>
+    <h5 align="left">Accuracy Score:</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_accuracy.PNG">
   </div>
 </div><br>
 
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Vine Reviews</h5>
+    <h5 align="left">Precision Score: <br> Recall Score: </h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_precision_recall.PNG">
   </div>
 </div><br>
 
 
 -  SMOTE Oversampling
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/SMOTE_accuracy.PNG]
-<br>
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/SMOTE_precision_recall.PNG]
-<br>
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Accuracy Score:</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/SMOTE_accuracy.PNG">
+  </div>
+</div><br>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Precision Score: <br> Recall Score: </h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/SMOTE_precision_recall.PNG">
+  </div>
+</div><br>
 
 -  Undersampling
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Undersampling_accuracy.PNG]
-<br>
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Undersampling_precision_recall.PNG]
-<br>
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Accuracy Score:</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Undersampling_accuracy.PNG">
+  </div>
+</div><br>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Precision Score: <br> Recall Score: </h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Undersampling_precision_recall.PNG">
+  </div>
+</div><br>
 
 -  Combination (SMOTEENN)
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Combination_accuracy.PNG]
-<br>
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Combination_precision_recall.PNG]
-<br>
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Accuracy Score:</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Combination_accuracy.PNG">
+  </div>
+</div><br>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Precision Score: <br> Recall Score: </h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Combination_precision_recall.PNG">
+  </div>
+</div><br>
 
 -  Balanced Random Forest Classifier
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/BRFC_accuracy.PNG]
-<br>
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/BRFC_precision_recall.PNG]
-<br>
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Accuracy Score:</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/BRFC_accuracy.PNG">
+  </div>
+</div><br>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Precision Score: <br> Recall Score: </h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/BRFC_precision_recall.PNG">
+  </div>
+</div><br>
 
 -  Easy Ensemble Classifier
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/EEC_accuracy.PNG]
-<br>
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/EEC_precision_recall.PNG]
-<br>
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Accuracy Score:</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/EEC_accuracy.PNG">
+  </div>
+</div><br>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Precision Score: <br> Recall Score: </h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/EEC_precision_recall.PNG">
+  </div>
+</div><br>
 
 ## Summary
 
