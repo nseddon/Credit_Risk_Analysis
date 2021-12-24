@@ -23,7 +23,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
 
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Precision Score: 1%<br> Recall Score: 71%</h5>
+    <h5 align="left">High-Risk Precision Score: 1%<br>High-Risk Recall Score: 71%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_precision_recall.PNG">
   </div>
 </div><br>
@@ -38,7 +38,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
 
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Precision Score: 1%<br> Recall Score: 63%</h5>
+    <h5 align="left">High-Risk Precision Score: 1%<br>High-Risk Recall Score: 63%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/SMOTE_precision_recall.PNG">
   </div>
 </div><br>
@@ -53,7 +53,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
 
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Precision Score: 1%<br> Recall Score: 69%</h5>
+    <h5 align="left">High-Risk Precision Score: 1%<br>High-Risk Recall Score: 69%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Undersampling_precision_recall.PNG">
   </div>
 </div><br>
@@ -68,7 +68,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
 
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Precision Score: 1%<br> Recall Score: 72%</h5>
+    <h5 align="left">High-Risk Precision Score: 1%<br>High-Risk Recall Score: 72%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Combination_precision_recall.PNG">
   </div>
 </div><br>
@@ -83,7 +83,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
 
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Precision Score: 3%<br> Recall Score: 64%</h5>
+    <h5 align="left">High-Risk Precision Score: 3%<br>High-Risk Recall Score: 64%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/BRFC_precision_recall.PNG">
   </div>
 </div><br>
@@ -98,7 +98,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
 
 <div class="container" align="left">
   <div style="background-image">
-    <h5 align="left">Precision Score: 9%<br> Recall Score: 92%</h5>
+    <h5 align="left">High-Risk Precision Score: 9%<br>High-Risk Recall Score: 92%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/EEC_precision_recall.PNG">
   </div>
 </div><br>
