@@ -14,10 +14,20 @@ The purpose of this analysis was to determine credit risk for our lending servic
 ## Results
 
 -  Naive Random Oversampling
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_accuracy.PNG]
-<br>
-[https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_precision_recall.PNG]
-<br>
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Vine Reviews</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_accuracy.PNG">
+  </div>
+</div><br>
+
+<div class="container" align="left">
+  <div style="background-image">
+    <h5 align="left">Vine Reviews</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_precision_recall.PNG">
+  </div>
+</div><br>
+
 
 -  SMOTE Oversampling
 [https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/SMOTE_accuracy.PNG]
