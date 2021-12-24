@@ -14,22 +14,16 @@ The purpose of this analysis was to determine credit risk for our lending servic
 ## Results
 
 -  Naive Random Oversampling
-<div class="container">
+<div class="container" align="left">
   <div style="background-image">
-    <div align="left">
-      <h5 align="left">Accuracy Score: 64.6%</h5>
-      <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_accuracy.PNG">
-    </div
-    <div align="right">
-      <h5 align="left">Precision Score: 1%<br> Recall Score: 71%</h5>
-      <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_precision_recall.PNG">
-    </div>
+    <h5 align="left">Accuracy Score: 64.6%</h5>
+    <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_accuracy.PNG">
   </div>
 </div>
 
-<div class="container" align="left">
+<div class="container" align="right">
   <div style="background-image">
-    <h5 align="left">Precision Score: 1%<br> Recall Score: 71%</h5>
+    <h5 align="right">Precision Score: 1%<br> Recall Score: 71%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_precision_recall.PNG">
   </div>
 </div><br>
