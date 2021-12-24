@@ -21,13 +21,12 @@ The purpose of this analysis was to determine credit risk for our lending servic
   </div>
 </div>
 
-<div class="container" align="right">
+<div class="container" align="left">
   <div style="background-image">
-    <h5 align="right">Precision Score: 1%<br> Recall Score: 71%</h5>
+    <h5 align="left">Precision Score: 1%<br> Recall Score: 71%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Naive_precision_recall.PNG">
   </div>
 </div><br>
-
 
 -  SMOTE Oversampling
 <div class="container" align="left">
