@@ -104,6 +104,15 @@ The purpose of this analysis was to determine credit risk for our lending servic
 </div><br>
 
 ## Summary
+As can be seen from the results, the following models had lower than desired accuracy scores (defined as less than 75% accuracy) and recall scores:
+-  Naive Random Oversampling
+-  SMOTE Oversampling
+-  Undersampling
+-  Combination (SMOTEENN)
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification
+The Ensemble models had better accuracy scores, but the Easy Ensemble Classifer (EEC) model preformed the best with the highest scores in all categories:
+-  Accuracy: 93.2%
+-  High-Risk Precision: 9%
+-  High-Risk Recall: 92%
+
+With the given data, it would be recommended to perform future analysis with an EEC model, but additional data and configuration could potentially all models to be improved.
