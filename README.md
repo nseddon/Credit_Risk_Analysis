@@ -34,7 +34,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
     <h5 align="left">Accuracy Score: 65.9</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/SMOTE_accuracy.PNG">
   </div>
-</div><br>
+</div>
 
 <div class="container" align="left">
   <div style="background-image">
@@ -49,7 +49,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
     <h5 align="left">Accuracy Score: 65.9%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Undersampling_accuracy.PNG">
   </div>
-</div><br>
+</div>
 
 <div class="container" align="left">
   <div style="background-image">
@@ -64,7 +64,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
     <h5 align="left">Accuracy Score: 54.4%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/Combination_accuracy.PNG">
   </div>
-</div><br>
+</div>
 
 <div class="container" align="left">
   <div style="background-image">
@@ -79,7 +79,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
     <h5 align="left">Accuracy Score: 75.4%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/BRFC_accuracy.PNG">
   </div>
-</div><br>
+</div>
 
 <div class="container" align="left">
   <div style="background-image">
@@ -94,7 +94,7 @@ The purpose of this analysis was to determine credit risk for our lending servic
     <h5 align="left">Accuracy Score: 93.2%</h5>
     <img src="https://github.com/nseddon/Credit_Risk_Analysis/blob/main/images/EEC_accuracy.PNG">
   </div>
-</div><br>
+</div>
 
 <div class="container" align="left">
   <div style="background-image">
